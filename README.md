@@ -4,7 +4,7 @@ Hi 👋 My name is TOQIR AHMAD
 Frontend Developer
 ------------------
 
-Aspiring Frontend Developer eager to bring creative visions to life. Proficient in HTML, CSS, and JavaScript, React with a commitment to learning and crafting engaging user experiences.
+Aspiring Frontend Developer eager to bring creative visions to life. Proficient in HTML, CSS, JavaScript, React, PHP, SQL, and MySQL with a commitment to learning and crafting engaging user experiences.
 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [Portfolio](http://toqir-ahmad.github.io/PortFolio/)
