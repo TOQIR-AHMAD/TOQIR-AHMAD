@@ -10,7 +10,7 @@ Aspiring Frontend Developer eager to bring creative visions to life. Proficient 
 * 🖥️  See my portfolio at [Portfolio](http://toqir-ahmad.github.io/PortFolio/)
 * ✉️  You can contact me at [toqirahmad7@gmail.com](mailto:toqirahmad7@gmail.com)
 * 🧠  I'm learning Web Game Development | VUE | MUI | NEXT JS | PHP | MySQL | Docker 
-* 🤝  I'm open to collaborating on Web Games
+* 🤝  I'm open to collaborating on Web Games | Website Development | Management Tools
 
 ### Skills
 
