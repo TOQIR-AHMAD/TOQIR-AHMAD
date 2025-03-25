@@ -9,7 +9,7 @@ Aspiring Frontend Developer eager to bring creative visions to life. Proficient 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [Portfolio](http://toqir-ahmad.github.io/PortFolio/)
 * ✉️  You can contact me at [toqirahmad7@gmail.com](mailto:toqirahmad7@gmail.com)
-* 🧠  I'm learning Web Development | REACT | MUI | NEXT JS | PHP | MySQL | Docker 
+* 🧠  I'm learning Web Development | REACT | MUI | NEXT JS | PHP | LARAVEL | MySQL | Docker 
 * 🤝  I'm open to collaborating on Web Games | Website Development | Management Tools
 
 ### Skills
