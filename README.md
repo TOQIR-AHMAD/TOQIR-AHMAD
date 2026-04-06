@@ -99,12 +99,6 @@ drwxr-xr-x  Design       Figma  Adobe XD  Photoshop  Illustrator
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TOQIR-AHMAD&theme=transparent&hide_border=true&ring=6c47ff&fire=00d4aa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=4a4a6a&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOQIR-AHMAD&bg_color=0d0d14&color=a78bfa&line=6c47ff&point=00d4aa&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 ---
