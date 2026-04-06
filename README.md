@@ -93,10 +93,6 @@ drwxr-xr-x  Design       Figma  Adobe XD  Photoshop  Illustrator
 ### `~/toqir $ ./run-stats.sh`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TOQIR-AHMAD&show_icons=true&count_private=true&title_color=a78bfa&text_color=c4b5fd&icon_color=00d4aa&bg_color=0d0d14&hide_border=true&border_radius=10&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOQIR-AHMAD&langs_count=8&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d14&hide_border=true&border_radius=10&layout=compact" height="165"/>
-
 <br/>
 
 </div>
