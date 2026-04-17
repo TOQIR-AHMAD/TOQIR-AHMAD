@@ -6,7 +6,7 @@
 
 ```bash
 $ whoami
-> toqir-ahmad — Software Engineer · Frontend Developer · Lahore, PK
+> toqir-ahmad — Software Engineer · Lahore, PK
 ```
 
 ```bash
