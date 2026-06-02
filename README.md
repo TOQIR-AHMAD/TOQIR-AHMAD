@@ -104,13 +104,33 @@ drwxr-xr-x  Design       Figma  Adobe XD  Photoshop  Illustrator
 ```yaml
 status:       available
 roles:
-  - Software Engineer
+  - Laravel Developer
+  - Full Stack Developer
   - Frontend Developer
+  - PHP Developer
   - UI/UX Developer
+  
 collaborate:
   - Web Games
   - Website Development
+  - SaaS Platforms
+  - Startup MVPs
+  - CRM Systems
+  - ERP Systems
+  - Admin Dashboards
   - Management Tools
+  - E-Commerce Platforms
+  - AI Applications
+  - Internal Business Tools
+  - Analytics Dashboards
+  - Real-Time Applications
+  - Enterprise Software
+  - Booking Systems
+  - LMS Platforms
+  - HRM Systems
+  - Inventory Management Systems
+  - Customer Portals
+  - API Development
 contact:      toqirahmad7@gmail.com
 portfolio:    https://toqir-ahmad.github.io/PortFolio/
 ```
