@@ -1,11 +1,15 @@
 <h1 align="center">Toqir Ahmad</h1>
 
 <p align="center">
-  Software Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Lahore, PK
+  Senior Software Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Lahore, PK
 </p>
 
 <p align="center">
-  <a href="https://toqir-ahmad.vercel.app/ "><img src="https://img.shields.io/badge/Portfolio-1A1A27?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  Building fast, resilient web platforms &mdash; Laravel, React, Next.js, TypeScript.
+</p>
+
+<p align="center">
+  <a href="https://toqir-ahmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C47FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/toqir-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-1A1A27?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TOQIR-AHMAD"><img src="https://img.shields.io/badge/GitHub-1A1A27?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:toqirahmad7@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A27?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -15,13 +19,15 @@
 
 ### About
 
-Full-stack software engineer with 3+ years building production web applications &mdash;
-SaaS platforms, CRM/ERP systems, admin dashboards, and internal business tooling.
+Senior full-stack engineer with 3+ years building fast, resilient web platforms &mdash;
+SaaS products, CRM/ERP systems, admin dashboards, and internal business tooling.
 I focus on clean architecture, maintainable code, and reliable delivery.
 
 - Backend with **Laravel / PHP**, REST APIs, and **MySQL**
 - Frontend with **React**, **Next.js**, and **TypeScript**
 - Available for freelance and contract work
+
+&rarr; **See my work:** [toqir-ahmad.vercel.app](https://toqir-ahmad.vercel.app/)
 
 ---
 
