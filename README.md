@@ -20,7 +20,7 @@
 toqir@dev:~$ whoami
 > Software Engineer · Lahore, PK
 > Full-stack developer focused on clean architecture and shipping reliably.
-> 5+ years building web apps, SaaS platforms, CRMs and internal tooling.
+> 3+ years building web apps, SaaS platforms, CRMs and internal tooling.
 ```
 
 <br/>
