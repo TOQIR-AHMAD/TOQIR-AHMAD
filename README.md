@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://toqir-ahmad.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A27?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://toqir-ahmad.vercel.app/ "><img src="https://img.shields.io/badge/Portfolio-1A1A27?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/toqir-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-1A1A27?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TOQIR-AHMAD"><img src="https://img.shields.io/badge/GitHub-1A1A27?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:toqirahmad7@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A27?style=flat-square&logo=gmail&logoColor=white"/></a>
