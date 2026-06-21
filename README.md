@@ -15,7 +15,7 @@
 
 ### About
 
-Full-stack software engineer with 5+ years building production web applications &mdash;
+Full-stack software engineer with 3+ years building production web applications &mdash;
 SaaS platforms, CRM/ERP systems, admin dashboards, and internal business tooling.
 I focus on clean architecture, maintainable code, and reliable delivery.
 
